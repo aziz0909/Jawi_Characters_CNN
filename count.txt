@@ -1,0 +1,21 @@
+Number of jawi characters
+-------------------------
+	0	0
+alif	72	7		ghain	1382	152
+ba	145	15		fa	1456	161
+ta	218	23		qaf	1529	169
+tsa	290	31		kaf	1606	179
+jim	363	39		lam	1678	188
+kha	436	47		meem	1749	197
+kho	509	55		noon	1821	206
+dal	582	63		waw	1897	215
+thal	655	71		ha	1970	224
+ra	728	79		lamalif	2042	233
+zai	801	87		hamzah	2113	250
+seen	874	95		ya	2185	259
+sheen	947	103		nga	2257	267
+sad	1020	111		pa	2329	276
+dhad	1092	119		ga	2394	283
+tta	1166	127		nya	2466	292
+dha	1238	135		cha	2538	301
+ain	1310	143		vi	2606	310
